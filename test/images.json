@@ -1,0 +1,35 @@
+{ "images": [
+    {
+      "imgId": 1,
+      "file": "anja-girls.jpg",
+      "alt": "three women are smiling and posing for a picture",
+      "year": " (2020-May)",
+      "title": "Magna feugiat lorem",
+      "info": "Sound Spinning images."
+    },
+    {
+      "imgId": 2,
+      "file": "babies.jpg",
+      "alt": "two babies sitting on a bed with one holding the other",
+      "year": " (2019-May)",
+      "title": "Magna feugiat lorem",
+      "info": "Sound Spinning images."
+    },
+    {
+      "imgId": 3,
+      "file": "er_Josele.jpg",
+      "alt": "a man playing a guitar on stage",
+      "year": " (2020-May)",
+      "title": "Magna feugiat lorem",
+      "info": "Sound Spinning images."
+    },
+    {
+      "imgId": 4,
+      "file": "favicon.svg",
+      "alt": "Sound Spinning assets image",
+      "year": " (2025-Mar)",
+      "title": "Magna feugiat lorem",
+      "info": "Sound Spinning images."
+    },
+  ]
+}
